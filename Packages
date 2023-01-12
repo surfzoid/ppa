@@ -3,10 +3,10 @@ Version: 1.0.30
 Architecture: amd64
 Maintainer: surfzoid
 Filename: ./QtVsPlayer_1.0.30_ubuntu-latest-amd64.deb
-Size: 5404144
-MD5sum: 58eac548e3386f7e54215192215f40c0
-SHA1: 31b3a0c599ba04a8b5023202ac0c06318ed55d3f
-SHA256: dbb54ca6444a3acd0d9e9548385379a1b575db2324ee8c571c71520eb4cda137
+Size: 5405952
+MD5sum: 4ae1087a5930ffb3354d0cf7714d3aa6
+SHA1: 9fb6745e22cfd5ad56828efb8dbb6c38a87cb4dc
+SHA256: ccd5c10b0f747d57d6dbab59662b924e4935fcc66ac8831d640263d077ec9787
 Description: QtVsPlayer can read local video files of Hikvision and display blue, green and red vector.
 
 Package: QtVsPlayer
@@ -15,9 +15,9 @@ Architecture: arm64
 Maintainer: surfzoid
 Depends: libc6 (>= 2.31),libqt5multimedia5:arm64, libqt5multimediawidgets5:arm64
 Filename: ./QtVsPlayer_1.0.30_bullseye-arm64.deb
-Size: 2798916
-MD5sum: bb5337e00422d1894f0c6322918ae6aa
-SHA1: 649c602378d8eb23967421a05d8220feb51cdbb0
-SHA256: 29d0d96f44189210d88460519deab190eff8a3a65959498a20789df7d711e78d
+Size: 2799064
+MD5sum: 49ad435ef4ce90c3444e4453b55d17de
+SHA1: 2c6d455730ef81e048250f5bf646f0f37a337195
+SHA256: 7270c8b66400948bc36a0eed6ed1d954a781d29dd6df8d61c39d8b4eec884d78
 Description: QtVsPlayer can read local video files of Hikvision and display blue, green and red vector.
 
